@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nuznot.github.io/sitemap/sitemap.txt
